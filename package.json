@@ -1,0 +1,16 @@
+{
+  "name": "@byteinpsire/cloud-project-template-express",
+  "version": "0.0.8",
+  "files": [
+    "*",
+    "!.*",
+    ".gitignore"
+  ],
+  "dependencies": {
+    "@byteinspire/api":"*",
+    "express": "^4.17.1"
+  },
+  "repository": {},
+  "license": "ISC",
+  "scripts": {}
+}
